@@ -1,0 +1,9 @@
+
+DemoZookeeper = 是原生API的一些示例
+zkClient = 文件夹里面是zkClient（其他组织根据原生API封装的）的一些示例
+
+
+总结：
+原生API比较难用，所以就有其他组织封装的API，目前有：
+zkClient
+curator = Curator本身是Netflix公司开源的zookeeper客户端,curator提供了各种应用场景的实现封装

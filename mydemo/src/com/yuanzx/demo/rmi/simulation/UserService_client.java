@@ -10,7 +10,6 @@ import java.net.Socket;
  */
 public class UserService_client implements UserService {
 
-    @Override
     public User getUser() {
         User user = null;
         Socket socket = null;
