@@ -10,9 +10,9 @@ import java.io.*;
 public class DemoSerializable {
 
     public static void main(String[] args) {
-//        serializePersion();//序列化
+        serializePersion();//序列化
 //        DeSerializePersion();//反序列化
-        deepClone();//深度克隆
+//        deepClone();//深度克隆
     }
 
     /**
