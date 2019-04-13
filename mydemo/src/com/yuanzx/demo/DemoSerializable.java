@@ -19,7 +19,7 @@ public class DemoSerializable {
      * 序列化
      */
     public static void serializePersion(){
-        try {
+        try { 
             Person person = new Person();
             person.setAge(11);
             person.setName("张三");
